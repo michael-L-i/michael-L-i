@@ -74,18 +74,8 @@ Deeper dives into the models behind the products.
 
 - [**Braqit**](https://github.com/michael-L-i/Braqit) — a Python package for quantum computation.
 - [**DWave**](https://github.com/michael-L-i/DWave) — experiments with D-Wave quantum annealing.
-- [**LEO-Club-Website**](https://github.com/michael-L-i/LEO-Club-Website) — website for a LEO service club.
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-L-i&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-L-i&layout=compact&hide_border=true&langs_count=8)
-
-</div>
 
 <div align="center">
 <sub>🌱 Always adding more — check back as the project list grows.</sub>
