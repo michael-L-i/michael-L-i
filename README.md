@@ -63,6 +63,7 @@ Deeper dives into the models behind the products.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [**Sycophancy-RL**](https://github.com/michael-L-i/Sycophancy-RL) | 🩺 *CS224N final project* — reducing medical sycophancy with truth-weighted RLHF. A condition-aware reward penalizes endorsing a user's misconception, training Qwen3 (1.7B–7B) via GRPO / online DPO on Modal. | `PyTorch` · `Modal` |
 | [**Image-Rebroadcasting**](https://github.com/michael-L-i/Image-Rebroacasting) | 🛡️ *CS229 final project* — detecting & defeating image recapture (rebroadcast) attacks. EXIF + ResNet + physics-based Moiré detection on the defense side; UNet camera simulator + adversarial generator on the attack side. | `PyTorch` · `Jupyter` |
 | [**Movies-Topic-Modelling**](https://github.com/michael-L-i/Movies-Topic-Modelling) | 🎥 Unsupervised pipeline that extracts themes from movie reviews and scores per-theme sentiment, using BERTopic + OpenAI labels + NLTK. | `BERTopic` · `Jupyter` |
 | [**agent_experiment**](https://github.com/michael-L-i/agent_experiment) | 🤖 An LLM picks servo angles in a closed grip-rotate-release loop driving a real Arduino rig — language models meeting hardware. | `Python` · `Arduino` |
