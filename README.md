@@ -36,7 +36,7 @@ From on-device voice dictation to real-time AI commentators and adversarial visi
 Products I build to be used by real people.
 
 ### 🎙️ [VoiceType](https://github.com/michael-L-i/VoiceType) &nbsp; `Swift` · `macOS`
-A fast, private, open-source voice-dictation app — a Wispr Flow clone. Hold a key, talk,
+A fast, private, open-source voice-dictation app for macOS. Hold a key, talk,
 and your words land as clean, punctuated text in any app. Audio stays **on-device** by
 default. Ships as a downloadable `.dmg` with versioned releases.
 
@@ -54,7 +54,6 @@ Built fast, under pressure, end-to-end.
 | [**MindShift**](https://github.com/michael-L-i/MindShift-Treehacks25) | ⌚ *TreeHacks '25* — an Apple Watch + web app that reads heart-rate and behavioral signals and runs AI analysis for mental-wellness nudges. | `Swift` · `watchOS` · `Python` |
 | [**Ai-Commentator**](https://github.com/michael-L-i/Ai-Commentator) | 🃏 Real-time AI commentator for poker. Uses Gemini 2.5 Flash with a timestamp-cache trick to deliver near-zero-latency, hallucination-resistant live audio. | `Python` · `Gemini` |
 | [**ReCast**](https://github.com/michael-L-i/ReCast) | 🎬 Video → best raw prompt → anime & sci-fi restyled versions, generated with Gemini 2.5 Flash. | `Python` · `Gemini` |
-| [**StreamBrain**](https://github.com/michael-L-i/StreamBrain) | 🧠 Live video recall — stream, train, and infer on video memory using vLLM on Modal GPUs. | `Python` · `vLLM` · `Modal` |
 
 ---
 
