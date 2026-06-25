@@ -1,46 +1,17 @@
 <div align="center">
 
-# Hi, I'm Michael Li 👋
+# Hi, I'm Michael 👋
 
-### AI builder & hackathon hacker
-
-I like turning ambitious ideas into things you can actually run — shipping polished
-products, racing the clock at hackathons, and digging into ML research along the way.
-From on-device voice dictation to real-time AI commentators and adversarial vision models.
-
-<!-- 📬 Socials / contact links coming soon -->
+On my tokenmaxxing journey building projects that come to mind.
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square)
-![vLLM](https://img.shields.io/badge/vLLM-30A14E?style=flat-square)
-![Modal](https://img.shields.io/badge/Modal-7B61FF?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-
----
-
 ## 🚀 Featured Projects
 
-Products I build to be used by real people.
-
 ### 🎙️ [VoiceType](https://github.com/michael-L-i/VoiceType) &nbsp; `Swift` · `macOS`
-A fast, private, open-source voice-dictation app for macOS. Hold a key, talk,
-and your words land as clean, punctuated text in any app. Audio stays **on-device** by
-default. Ships as a downloadable `.dmg` with versioned releases.
-
-[![Download](https://img.shields.io/badge/⬇%20Download-VoiceType.dmg-F2743E?style=flat-square&logo=apple&logoColor=white)](https://github.com/michael-L-i/VoiceType/releases/latest)
+A fast, private, open-source voice-to-text dictation app for macOS. Built with a focus on user experience, low latency, and all to be run completely locally.
 
 ---
 
