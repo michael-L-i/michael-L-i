@@ -8,7 +8,7 @@ Software, AI / ML Research, and whatever seems interesting to build.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🏠 [splat-local](https://github.com/michael-L-i/splat-local) &nbsp; `Python` · `Metal` · `3D Gaussian Splatting`
 Turn a video walkthrough into an explorable 3D Gaussian Splat — fully local on Apple Silicon. COLMAP poses, a Metal-native trainer that matches CUDA gsplat quality, and a live browser viewer where you watch the scene resolve out of the fog as it trains. No cloud, no CUDA, nothing leaves your Mac.
@@ -21,7 +21,7 @@ A fast, private, open-source voice-to-text dictation app for macOS. Built for lo
 
 ---
 
-## 🏆 Hackathon Projects
+## Hackathon Projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ A fast, private, open-source voice-to-text dictation app for macOS. Built for lo
 
 ---
 
-## 🔬 ML & Research
+## ML & Research
 
 Deeper dives into the models behind the products.
 
@@ -44,7 +44,7 @@ Deeper dives into the models behind the products.
 
 ---
 
-## ⚛️ Earlier Work
+## Earlier Work
 
 - [**Braqit**](https://github.com/michael-L-i/Braqit) — a Python package for quantum computation.
 - [**DWave**](https://github.com/michael-L-i/DWave) — experiments with D-Wave quantum annealing.
