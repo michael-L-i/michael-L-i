@@ -23,12 +23,12 @@ A fast, private, open-source voice-to-text dictation app for macOS. Built for lo
 
 ## Hackathon Projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**world-model-property-tour**](https://github.com/michael-L-i/world-model-property-tour) | 🏠 *Marble Hackathon* — turns a 2D floor plan image into a 3D building shell, then pipes it into Marble / World Labs scene generation for an interactive property tour. | `Python` · `3D` |
-| [**MindShift**](https://github.com/michael-L-i/MindShift-Treehacks25) | ⌚ An Apple Watch + web app that reads heart-rate and behavioral signals and runs AI analysis for mental-wellness nudges. | `Swift` · `watchOS` · `Python` |
-| [**Ai-Commentator**](https://github.com/michael-L-i/Ai-Commentator) | 🃏 Real-time AI commentator for poker. Uses Gemini 2.5 Flash with a timestamp-cache trick to deliver near-zero-latency, hallucination-resistant live audio. | `Python` · `Gemini` |
-| [**ReCast**](https://github.com/michael-L-i/ReCast) | 🎬 Video → best raw prompt → anime restyled versions, generated with Gemini 2.5 Flash. | `Python` · `Gemini` |
+| Project | What it does |
+| --- | --- |
+| [**world-model-property-tour**](https://github.com/michael-L-i/world-model-property-tour) | 🏠 *Marble Hackathon* — turns a 2D floor plan image into a 3D building shell, then pipes it into Marble / World Labs scene generation for an interactive property tour. |
+| [**MindShift**](https://github.com/michael-L-i/MindShift-Treehacks25) | ⌚ An Apple Watch + web app that reads heart-rate and behavioral signals and runs AI analysis for mental-wellness nudges. |
+| [**Ai-Commentator**](https://github.com/michael-L-i/Ai-Commentator) | 🃏 Real-time AI commentator for poker. Uses Gemini 2.5 Flash with a timestamp-cache trick to deliver near-zero-latency, hallucination-resistant live audio. |
+| [**ReCast**](https://github.com/michael-L-i/ReCast) | 🎬 Video → best raw prompt → anime restyled versions, generated with Gemini 2.5 Flash. |
 
 ---
 
@@ -36,11 +36,11 @@ A fast, private, open-source voice-to-text dictation app for macOS. Built for lo
 
 Deeper dives into the models behind the products.
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**Sycophancy-RL**](https://github.com/michael-L-i/Sycophancy-RL) | 🩺 Reducing medical sycophancy with truth-weighted RLHF. A condition-aware reward penalizes endorsing a user's misconception, training Qwen3 (1.7B–7B) via GRPO / online DPO on Modal. | `PyTorch` · `Modal` |
-| [**Image-Rebroadcasting**](https://github.com/michael-L-i/Image-Rebroacasting) | 🛡️ Detecting & defeating image recapture (rebroadcast) attacks. EXIF + ResNet + physics-based Moiré detection on the defense side; UNet camera simulator + adversarial generator on the attack side. | `PyTorch` · `Jupyter` |
-| [**Movies-Topic-Modelling**](https://github.com/michael-L-i/Movies-Topic-Modelling) | 🎥 Unsupervised pipeline that extracts themes from movie reviews and scores per-theme sentiment, using BERTopic + OpenAI labels + NLTK. | `BERTopic` · `Jupyter` |
+| Project | What it does |
+| --- | --- |
+| [**Sycophancy-RL**](https://github.com/michael-L-i/Sycophancy-RL) | 🩺 Reducing medical sycophancy with truth-weighted RLHF. A condition-aware reward penalizes endorsing a user's misconception, training Qwen3 (1.7B–7B) via GRPO / online DPO on Modal. |
+| [**Image-Rebroadcasting**](https://github.com/michael-L-i/Image-Rebroacasting) | 🛡️ Detecting & defeating image recapture (rebroadcast) attacks. EXIF + ResNet + physics-based Moiré detection on the defense side; UNet camera simulator + adversarial generator on the attack side. |
+| [**Movies-Topic-Modelling**](https://github.com/michael-L-i/Movies-Topic-Modelling) | 🎥 Unsupervised pipeline that extracts themes from movie reviews and scores per-theme sentiment, using BERTopic + OpenAI labels + NLTK. |
 
 ---
 
