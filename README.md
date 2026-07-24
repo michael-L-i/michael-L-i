@@ -13,8 +13,8 @@ Software, AI / ML Research, and whatever seems interesting to build.
 ### 🏠 [splat-local](https://github.com/michael-L-i/splat-local)
 Turn a video walkthrough into an explorable 3D Gaussian Splat — fully local on Apple Silicon. It combines COLMAP poses, a native trainer that matches CUDA gsplat quality, and a live browser viewer where you can watch the scene resolve out of the fog as it trains. No cloud, no CUDA, and nothing leaves your Mac.
 
-### 🎧 [voicebridge](https://github.com/michael-L-i/voicebridge)
-Talk to Claude Code or Codex instead of typing. VoiceBridge is a fully local voice companion with on-device speech-to-text, text-to-speech, and summarization, wired up through MCP with no cloud API keys. Install it, say hello, and code by conversation.
+### 🎧 [Cadence Code](https://github.com/michael-L-i/cadence-code)
+Talk to Claude Code or Codex instead of typing. Cadence Code is a fully local voice companion with on-device speech-to-text, text-to-speech, and summarization, wired up through MCP with no cloud API keys. Install it, say hello, and code by conversation.
 
 ### 🎙️ [VoiceType](https://github.com/michael-L-i/VoiceType)
 A fast, private, open-source voice-to-text dictation app for macOS. Built for low latency and a polished user experience, with everything running completely on-device.
