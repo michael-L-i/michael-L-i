@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Michael 👋
-
-Software, AI / ML Research, and whatever seems interesting to build.
+# 👋
 
 </div>
 
