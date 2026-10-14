@@ -6,10 +6,14 @@
 
 ---
 
-## Featured Projects
+## Projects
 
 ### 🏠 [splat-local](https://github.com/michael-L-i/splat-local)
 Turn a video walkthrough into an explorable 3D Gaussian Splat — fully local on Apple Silicon. It combines COLMAP poses, a native trainer that matches CUDA gsplat quality, and a live browser viewer where you can watch the scene resolve out of the fog as it trains. No cloud, no CUDA, and nothing leaves your Mac.
+
+### 📦 [libarchive-rust](https://github.com/michael-L-i/libarchive-rust)
+
+An experimental Rust port of libarchive and its four command-line tools: `bsdtar`, `bsdcpio`, `bsdcat` and `bsdunzip`. It provides a typed Rust API and C-compatible shared and static libraries, with the goal of preserving upstream behavior for existing applications. Compatibility tests, fuzzing and reproducible benchmarks track the port against the pinned C implementation; platform coverage and known differences are documented in the repository.
 
 ### 🎧 [Cadence Code](https://github.com/michael-L-i/cadence-code)
 Talk to Claude Code or Codex instead of typing. Cadence Code is a fully local voice companion with on-device speech-to-text, text-to-speech, and summarization, wired up through MCP with no cloud API keys. Install it, say hello, and code by conversation.
@@ -19,7 +23,7 @@ A fast, private, open-source voice-to-text dictation app for macOS. Built for lo
 
 ---
 
-## Hackathon Projects
+## Hackathon
 
 | Project | What it does |
 | --- | --- |
