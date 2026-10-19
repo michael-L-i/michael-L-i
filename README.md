@@ -15,6 +15,10 @@ Turn a video walkthrough into an explorable 3D Gaussian Splat — fully local on
 
 An experimental Rust port of libarchive and its four command-line tools: `bsdtar`, `bsdcpio`, `bsdcat` and `bsdunzip`. It provides a typed Rust API and C-compatible shared and static libraries, with the goal of preserving upstream behavior for existing applications. Compatibility tests, fuzzing and reproducible benchmarks track the port against the pinned C implementation; platform coverage and known differences are documented in the repository.
 
+### ⚡ [fastscipy](https://github.com/michael-L-i/fastscipy)
+
+An experimental drop-in accelerator for SciPy: call `fastscipy.patch()` and existing SciPy code runs faster, with results that are byte-identical to SciPy's. Rust kernels and multithreaded wrappers replace the slow parts of ndimage, stats, signal, interpolate, sparse and linalg; everything else falls through to SciPy. Across 211 benchmarks it is 5.2× faster on one thread and 17.5× on 18 cores, and SciPy's own 88,000-test suite gives the same outcomes with the patch on. Currently validated on Apple Silicon.
+
 ### 🎧 [Cadence Code](https://github.com/michael-L-i/cadence-code)
 Talk to Claude Code or Codex instead of typing. Cadence Code is a fully local voice companion with on-device speech-to-text, text-to-speech, and summarization, wired up through MCP with no cloud API keys. Install it, say hello, and code by conversation.
 
