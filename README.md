@@ -8,6 +8,9 @@
 
 ## Projects
 
+### 📝 [Paperdesk](https://github.com/michael-L-i/paperdesk)
+A local Overleaf with an AI agent built in. Write LaTeX with a live PDF preview and SyncTeX on your own machine, and let the Codex or Claude Code CLI you already use read the whole project (PDFs, notes, and code) and edit the document with you. No account, no upload, and no API key; projects are plain folders on your disk.
+
 ### 🏠 [splat-local](https://github.com/michael-L-i/splat-local)
 Turn a video walkthrough into an explorable 3D Gaussian Splat — fully local on Apple Silicon. It combines COLMAP poses, a native trainer that matches CUDA gsplat quality, and a live browser viewer where you can watch the scene resolve out of the fog as it trains. No cloud, no CUDA, and nothing leaves your Mac.
 
